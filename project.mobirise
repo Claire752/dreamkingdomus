@@ -656,7 +656,7 @@
           },
           "text1": "<strong>IP</strong><br>dkingdom.us",
           "text2": "<strong>Contacts</strong><br>\nEmail: dreamkingdommc@gmail.com<br>",
-          "text3": "<strong>Links</strong><br>\n<a href=\"index.yml\">Home</a><br>\n<a class=\"text-primary\" href=\"https://discord.gg/33V8ecu\" target=\"_blank\">Discord</a><br>\nContact"
+          "text3": "<strong>Links</strong><br>\n<a href=\"index.yml\">Home</a><br>\n<a class=\"text-primary\" href=\"https://discord.gg/33V8ecu\" target=\"_blank\">Discord</a><br>\n<a href=\"page2.html\">Contact</a>"
         }
       ]
     },
